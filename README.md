@@ -1,3 +1,4 @@
-# namesayer
+# NameSayer
 
-Makes a video of what the user put in as the creation name and allows the user to record the audio.
+A functioning GUI which creates a ".mkv" file which which has a static image of the name for the video chosen by the user
+Also allows the user to record the audio to be used within the audio
